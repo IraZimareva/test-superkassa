@@ -1,6 +1,7 @@
 package zimareva.model;
 
 import org.hibernate.annotations.Type;
+import zimareva.model.utils.MyJson;
 
 import javax.persistence.*;
 

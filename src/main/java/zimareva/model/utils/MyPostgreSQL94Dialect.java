@@ -1,4 +1,4 @@
-package zimareva.model;
+package zimareva.model.utils;
 
 import org.hibernate.dialect.PostgreSQL94Dialect;
 

@@ -1,4 +1,4 @@
-package zimareva.model;
+package zimareva.model.utils;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.hibernate.HibernateException;

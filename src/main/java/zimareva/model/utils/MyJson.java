@@ -1,18 +1,18 @@
-package zimareva.model;
+package zimareva.model.utils;
 
 import java.io.Serializable;
 
 public class MyJson implements Serializable {
-    private Long current;
+    private Double current;
 
     public MyJson() {
     }
 
-    public Long getCurrent() {
+    public Double getCurrent() {
         return current;
     }
 
-    public void setCurrent(Long current) {
+    public void setCurrent(Double current) {
         this.current = current;
     }
 }
